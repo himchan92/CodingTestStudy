@@ -1,6 +1,6 @@
 # 자바 코딩테스트 공부
-- 사이트: 프로그래머스
-- 목표: 하단 LV1 핵심 문제 풀기
+- 대상: 프로그래머스
+- 목표: LV1 핵심 문제 풀기
   
 ### 🔤 문자열 처리
 - [ ] [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)  
