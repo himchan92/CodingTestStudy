@@ -3,7 +3,7 @@
 - 목표: LV1 핵심 문제 풀기
   
 ### 🔤 문자열 처리
-- [ ] [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)  
+- [x] [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916)  
 - [ ] [문자열 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12917)  
 - [ ] [이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930)  
 - [ ] [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)  
